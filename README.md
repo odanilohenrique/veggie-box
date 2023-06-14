@@ -39,10 +39,3 @@ The `package.json` file contains several scripts for development and building:
 - `lint`: Lints the source files.
 - `preview`: Previews the built application.
 
-## Dependencies
-
-The application has several dependencies listed in `package.json`, including React, Bootstrap, Firebase, and Swiper among others.
-
-## Author
-
-This project is developed and maintained by ferJen.
